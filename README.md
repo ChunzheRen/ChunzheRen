@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a Master`s student of ECE in GaTech, Atlanta, GA.
 - 🌱 I’m currently taking courses concerning RL.
 - 🤔 I’m looking for internship concerning RL.
-- 💬 Ask me about GaTech, US and other scientific staff.
-- 📫 How to reach me: cren43@gatech.edu, chunzhe.ren@wsu.edu
+- 💬 Ask me about GaTech, Atlanta and other scientific staff.
+- 📫 How to reach me: cren43@gatech.edu
